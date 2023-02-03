@@ -1,0 +1,201 @@
+
+/*------------------------------       Body       -------------------------------*/
+
+body{
+    background: #eeb8d3;
+}
+a{
+    text-decoration: none;
+}
+
+
+/*------------------------------       Menu Bar     -------------------------------*/
+
+.navbar {
+    background: #f1428b;
+}
+.hopeworld{
+    font-family: 'Lobster', cursive;
+    color: #6b0624;
+    font-size: 20px;
+}
+.hopeworld:hover{
+    font-family: 'Lobster', cursive;
+    color: rgb(253, 75, 164);
+    font-size: 20px;
+}
+.customNavbar{
+    color: #b63790 !important;
+}
+
+
+/*------------------------------      Carrito       -------------------------------*/
+
+.rojo{
+    color:#1b54077a;
+    font-size: 17px;
+}
+.rojo:hover{
+    color: rgba(255, 0, 0, 0.692);
+    text-shadow: grey 2px 2px 3px;
+}
+#pagar :hover {
+    color: rgb(4, 94, 228);
+    font-weight: 900;
+    background-color: #09a0e63b;
+}
+#menosProducto{
+    color: rgb(121, 118, 118);
+}
+#menosProducto:hover{
+    color: rgba(206, 22, 22, 0.925);
+    cursor: pointer;
+}
+#masProducto{
+    color: rgb(121, 118, 118);
+}
+#masProducto:hover{
+    color: rgb(9, 165, 9);
+    cursor: pointer;
+}
+#total {
+    background-color: #f2f2f2;
+    font-size: 18px;
+    font-weight: bold;
+}
+#total.form-control {
+    width: 100%;
+    }
+
+/*------------------------------        Main        -------------------------------*/
+
+.hero{
+    color: #a00344;
+    font-weight: bold;
+    margin-bottom: 3rem;
+    margin-top: 60px;
+}
+.titulo{
+    font-size: 3rem;
+    font-family: "Lobster";
+    margin-bottom: 2rem;
+    margin-top: 60px;
+}
+.subtitulo{
+    font-size: 2rem;
+}
+
+
+/*------------------------------      Secciones     -------------------------------*/
+
+.card{
+    background: #834a67a2;
+    box-shadow: 0 5px 9px 0 #a00344, 0 7px 21px 0 #f56db1;
+    margin-top: 25px;
+}
+
+#store{
+    margin: 30px;
+}
+.amarillo{
+    color: #a00344;
+}
+.blanco{
+    color: #a00344;
+}
+
+/*------------------------------       Footer       -------------------------------*/
+
+footer i {
+    bottom: 0;
+    background:  #f1428b;
+    color: #a00344;
+}
+footer a:hover{
+    color:rgb(247, 180, 232);
+}
+footer{
+    background-color: #f1428b;
+    z-index: 10;
+}
+
+
+/*------------------------------      Contador       -------------------------------*/
+
+.sorteo h2 {
+    color:  #a00344;
+    margin-bottom: 1rem;
+    display: flex;
+    justify-content: center;
+}
+.sorteo h5 {
+    color:  #a00344;
+    margin-bottom: 1rem;
+    display: flex;
+    justify-content: center;
+}
+.sorteo h2 i{
+    margin-left: 1rem;
+}
+
+/*---------------------------------------------------------------------------------*/
+/*------------------------------   Cuenta Regresiva   -------------------------------*/
+/*---------------------------------------------------------------------------------*/
+.contador {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap; 
+}
+.contador li {
+    flex: 0 0 calc(50% - 3rem);
+    list-style: none;
+    font-size: 1.8rem;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding-bottom: 4rem; }
+    @media (min-width: 768px) {
+        .contador li {
+        flex: 0 0 calc(25% - 2rem); 
+    } 
+}
+.numero {
+    color: #a00344;
+    font-size: 3rem;
+    margin: 0;
+    font-family: 'Oswald', sans-serif; }
+    @media (min-width: 768px) {
+        .numero {
+        font-size: 4rem; 
+    }
+}
+.numero p{
+    color: #e9eb81c4;
+}
+
+/*---------------------------------------------------------------------------------*/
+/*------------------------------   Boton Whatsapp   -------------------------------*/
+/*---------------------------------------------------------------------------------*/
+.btn-whatsapp {
+        display:block;
+        font-size: 4rem;
+        color: rgba(249, 250, 201, 0.897);
+        position: fixed;
+        right:20px;
+        bottom:20px;
+        border-radius:50%;
+        line-height:80px;
+        text-align:center;
+        z-index:999;
+}
+.btn-whatsapp :hover{
+        color: #b62095;
+}
+
+#community {
+    max-height: max-content;
+    text-align:center;
+    color: #a00344;
+
+}
+

@@ -1,0 +1,107 @@
+[
+    {
+        "img":"./img/producto1.jpeg",
+        "title":"Peluche Sanrio",
+        "description":"Importados, sin licencia.",
+        "precio":"7.060",
+        "id":"1"
+    },
+    {
+        "img":"./img/producto2.jpeg",
+        "title":"Calendario 2023",
+        "description":"Importados, con licencia",
+        "precio":"3.885",
+        "id":"2"
+    },
+    {
+        "img":"./img/producto3.jpeg",
+        "title":"Porta Cosméticos",
+        "description":"Importados, sin licencia",
+        "precio":"6.600",
+        "id":"3"
+    },
+    {
+        "img":"./img/producto4.jpeg",
+        "title":"Post It Sanrio",
+        "description":"Importados, sin licencia",
+        "precio":"2.440",
+        "id":"4"
+    },
+    {
+        "img":"./img/producto5.jpeg",
+        "title":"Cadenita Kuromi",
+        "description":"Importados, sin licencia",
+        "precio":"2.800",
+        "id":"5"
+    },
+    {
+        "img":"./img/producto6.jpeg",
+        "title":"Pantuflas Sanrio",
+        "description":"Importadas, sin licencia",
+        "precio":"9.650",
+        "id":"6"
+    },
+    {
+        "img":"./img/producto7.jpeg",
+        "title":"Vasos Sanrio",
+        "description":"Importados, sin licencia",
+        "precio":"4.900",
+        "id":"7"
+    },
+    {
+        "img":"./img/producto8.jpeg",
+        "title":"Termo My Melody",
+        "description":"Importado, con licencia ",
+        "precio":"12.440",
+        "id":"8"
+    },
+    {
+        "img":"./img/producto9.jpeg",
+        "title":"Bolso Hello Kitty",
+        "description":"Importado, con licencia",
+        "precio":"13.200",
+        "id":"9"
+    },
+    {
+        "img":"./img/producto10.jpeg",
+        "title":"Cartera Kirby",
+        "description":"Importado, sin licencia",
+        "precio":"7.420",
+        "id":"10"
+    },
+    {
+        "img":"./img/producto11.jpeg",
+        "title":"Bolso Pom Pom Purin",
+        "description":"Importado, sin licencia",
+        "precio":"8.710",
+        "id":"11"
+    },
+    {
+        "img":"./img/producto12.jpeg",
+        "title":"Lapiceros Pochacco",
+        "description":"Importado, sin licencia",
+        "precio":"4.200",
+        "id":"12"
+    },
+    {
+        "img":"./img/producto13.jpeg",
+        "title":"Set Papeles de Cartas",
+        "description":"Originales traídos de Japón",
+        "precio":"1.850",
+        "id":"13"
+    },
+    {
+        "img":"./img/producto14.jpeg",
+        "title":"Cartuchera Ecocuero",
+        "description":"Importadas, sin licencia",
+        "precio":"3.530",
+        "id":"14"
+    },
+    {
+        "img":"./img/producto15.jpeg",
+        "ntitle":"Mochila Vaquita Kawaii",
+        "description":"BImportadas",
+        "precio":"12.550",
+        "id":"15"
+    }
+]
